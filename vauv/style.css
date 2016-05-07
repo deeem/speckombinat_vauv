@@ -1,0 +1,131 @@
+/*
+Theme Name: VAUV
+Theme URI: https://github.com/deeem/vauv
+Author: deeem
+Description: Тема для сайта vauv
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.admin-bar .navbar-fixed-top {
+    margin-top: 30px;
+}
+
+/* -------        -------------*/
+
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.alignleft {
+    margin: 7px 24px 7px 0;
+}
+
+img.alignright {
+    margin: 7px 0 7px 24px;
+}
+
+img.aligncenter {
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.author_label {
+    font-size: 1.5em;
+}
+
+/* -------  panel  ------------*/
+
+.kb_archive_list {
+    margin-top: 20px;
+}
+
+.tuts_archive_list {
+    margin-top: 20px;
+}
+
+.breadcrumb_panel {
+    margin-top: 20px;
+}
+
+.launcher_panel {
+    /* -- launcher_panel class is unused -- */
+    margin-top: 20px;
+}
+
+.launcher_item_logged:hover {
+    background: #d9edf7;
+}
+
+.launcher_item_logged > .panel-footer {
+    background: #d9edf7;
+}
+
+.launcher_item_guest:hover {
+    background: #fcf8e3;
+}
+
+.launcher_item_guest > .panel-footer {
+    background: #fcf8e3;
+}
+
+.login_panel {
+    /*-- .login_panel class is unused --*/
+    margin-top: 1em;
+}
+
+/* ----  menu fot bootstrap ----*/
+
+.sub-menu {
+    display: none;
+    position: absolute;
+    background: #222;
+    padding: 10px 15px;
+    width: 200px;
+}
+
+li:hover .sub-menu {
+    display: block;
+}
+
+.sub-menu li {
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+.sub-menu li:last-child {
+    margin-bottom: 0;
+}
+
+.sub-menu a {
+    color: #999;
+    text-decoration: none;
+}
+
+.sub-menu a:hover {
+    color: #fff;
+}
+
+.current-menu-item > a, .current-menu-parent > a {
+    background: #000;
+}
+
+.current-menu-parent li a {
+    background: inherit;
+}
+
+.current-menu-parent .current-menu-item a {
+    color: #fff;
+    font-weight: bold;
+}
