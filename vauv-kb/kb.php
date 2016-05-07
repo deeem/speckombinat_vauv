@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: VAUV Knowledge Base
-Plugin URI: https://github.com/deeem/vauv-kb
+Plugin URI: https://github.com/deeem/speckombinat_vauv
 Description: База знаний отдела ВАУВ
 Version: 1.0
 Author: deeem

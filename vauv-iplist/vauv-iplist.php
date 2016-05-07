@@ -12,7 +12,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       VAUV IP list
- * Plugin URI:        https://github.com/deeem/vauv-iplist
+ * Plugin URI:        https://github.com/deeem/speckombinat_vauv
  * Description:       Справочник ip-адресов
  * Version:           1.0.0
  * Author:            deeem
