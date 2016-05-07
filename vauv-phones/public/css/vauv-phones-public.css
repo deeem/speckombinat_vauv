@@ -1,0 +1,13 @@
+#organizations td {
+    width: 30%;
+}
+
+#organizations td:hover{
+    background-color: #eee;
+}
+
+#departments,
+#subscribers,
+#search{
+    display: none;
+}
