@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: VAUV Launcher Widget
-Plugin URI: https://github.com/deeem/vauv-launcher
+Plugin URI: https://github.com/deeem/speckombinat_vauv
 Description: Виджет панели ярлыков для запуска различных web-приложений на сайте отдела ВАУВ
 Version: 1.0
 Author: deeem

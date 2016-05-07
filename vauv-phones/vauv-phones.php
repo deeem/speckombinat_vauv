@@ -12,7 +12,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       VAUV Phones
- * Plugin URI:        https://github.com/deeem/vauv-phones
+ * Plugin URI:        https://github.com/deeem/speckombinat_vauv
  * Description:       Справочник телефонов
  * Version:           1.0.0
  * Author:            deeem

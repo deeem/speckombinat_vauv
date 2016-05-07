@@ -2,7 +2,7 @@
 
 /*
 * Plugin Name:       VAUV Search Widget
-* Plugin URI:        https://github.com/deeem/vauv-search-widget
+* Plugin URI:        https://github.com/deeem/speckombinat_vauv
 * Description:       Поиск по телефонному справочнику и списку ip-адресов. Виджет для сайта ВАУВ.
 * Version:           1.0.0
 * Author:            deeem
